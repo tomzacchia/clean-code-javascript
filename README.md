@@ -1,5 +1,7 @@
 # clean-code-javascript
 
+## [Personal Notes](https://github.com/tomzacchia/clean-code-javascript/wiki/Notes)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
